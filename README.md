@@ -1,6 +1,6 @@
 # Outer Fringes
 <p align="center">
-  <img src="./Outer_Fringes_poster.png"/>
+  <img src="./assets/Outer_Fringes_poster.png"/>
 </p>
 
 ## Want to collaborate with us?
