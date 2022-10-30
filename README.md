@@ -9,7 +9,7 @@
 <ul>
   <li><a href="./Outer Fringes Game Design.pdf">Game Design Document</a></li>
   <li><a href="./Outer Fringes Monetization Design.pdf">Monetization Design Document</a></li>
-  <li><a href="./Outer Fringes Concept Art.pdf">Concept Art Document</a></li>
+  <li><a href="./Outer Fringes Concept Art.pdf">Concept Art Document</a> - Must download to view (file too large for GitHub preview)</li>
 </ul>
 
 ## Want to collaborate with us?
