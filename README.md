@@ -3,6 +3,12 @@
   <img src="./assets/Outer_Fringes_poster.png"/>
 </p>
 
+# Submissions
+<ul>
+  <li><a href="./Outer Fringes Game Design.pdf">Game Design Document</a></li>
+  <li><a href="./Outer Fringes Monetization Design.pdf">Monetization Design Document</a></li>
+</ul>
+
 ## Want to collaborate with us?
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you're looking to work on the feature, concept art or monetization model designer bounties, we would love to welcome you to our project! Please reach out to us on discord at <b>Zapper#6923</b> and we will onboard you with or vision, regular updates and answer any of your questions so your work can commence as smoothly as possible.
 
