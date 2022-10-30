@@ -10,6 +10,7 @@
   <li><a href="./Outer Fringes Game Design.pdf">Game Design Document</a></li>
   <li><a href="./Outer Fringes Monetization Design.pdf">Monetization Design Document</a></li>
   <li><a href="./Outer Fringes Concept Art.pdf">Concept Art Document</a></li>
+  <li><a href="./Outer Fringes Game Feature Design.pdf">Game Feature Design Document</a></li>
 </ul>
 
 ## Want to collaborate with us?
