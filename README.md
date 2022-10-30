@@ -18,7 +18,7 @@
 
 ## What is Outer Fringes?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Outer Fringes you play as a former detective from Ceres in the year 2283 delivering cargo and people between colonies on New Terra. In between delivery, trading, and customizing your NEV you try to find the answers to your colony ship crash, which took your friend's life. In addition to delivering cargo or people yourself, you can set up automated NEVs to deliver cargo for you and customize them to fit the task. Need the cargo to stay warm? Add a heated compartment or make the NEV go faster to reach the destination quicker. Are road conditions at the destination rough? Modify the wheels to have increased traction, add better suspension and increase engine and brake power. The choice is yours!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Outer Fringes you play as a former detective from Ceres in the year 2283 delivering cargo between colonies on New Terra. In between delivery, trading, and customizing your NEV you try to find the answers to your colony ship crash, which took your friend's life. In addition to delivering cargo yourself, you can set up automated NEVs to deliver cargo for you and customize them to fit the task. Need the cargo to stay warm? Add a heated compartment or make the NEV go faster to reach the destination quicker. Are road conditions at the destination rough? Modify the wheels to have increased traction, add better suspension and increase engine and brake power. The choice is yours!
 
 ## What is the story of Outer Fringes?
 
