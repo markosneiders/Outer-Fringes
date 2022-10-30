@@ -8,6 +8,7 @@
 
 <ul>
   <li><a href="./Outer Fringes Game Design.pdf">Game Design Document</a></li>
+  <li><a href="https://youtu.be/GOhH4K6ghJUGame">Game Design Video</a></li>
   <li><a href="./Outer Fringes Monetization Design.pdf">Monetization Design Document</a></li>
   <li><a href="./Outer Fringes Concept Art.pdf">Concept Art Document</a> - <a href ="https://drive.google.com/drive/folders/13kxVG4Fg_MKWAe8_l6ms2JKpOBtjFxRx?usp=sharing">Concept art folder</a</li>
   <li><a href="./Outer Fringes Game Feature Design.pdf">Game Feature Design Document</a></li>
